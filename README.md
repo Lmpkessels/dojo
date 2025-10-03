@@ -1,3 +1,3 @@
 # DOJO
 
-Just a repository where I practice Rust and track my progress to go easily back to concepts I understood, or need refinement.
+Just a playground for mastering Rust concepts, and stems-level thinking through through experiments.
